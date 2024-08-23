@@ -1,0 +1,1 @@
+import jacket_shirt from '/jacket_shirt.jpeg';
